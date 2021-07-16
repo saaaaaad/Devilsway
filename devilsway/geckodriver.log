@@ -1,0 +1,242 @@
+1624046932382	geckodriver	INFO	Listening on 127.0.0.1:33613
+1624046932390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiVHxi7"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1624046941138	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiVHxi7/search.json.mozlz4", (void 0)))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1624047082548	geckodriver	INFO	Listening on 127.0.0.1:50421
+1624047082556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGkHcqq"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1624047083041	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGkHcqq/search.json.mozlz4", (void 0)))
+1624047090833	Marionette	INFO	Listening on port 38499
+1624047090925	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+Exiting due to channel error.
+Exiting due to channel error.
+1624047351126	geckodriver	INFO	Listening on 127.0.0.1:59103
+1624047351133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeFpF6u"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1624047351617	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeFpF6u/search.json.mozlz4", (void 0)))
+1624047359728	Marionette	INFO	Listening on port 35929
+1624047359816	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1624047377352	Marionette	INFO	Stopped listening on port 35929
+1624048023046	geckodriver	INFO	Listening on 127.0.0.1:58557
+1624048023052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem2TcqJ"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1624048023522	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilem2TcqJ/search.json.mozlz4", (void 0)))
+1624048031475	Marionette	INFO	Listening on port 33537
+1624048031501	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.error: "Could not find engine to update"
+console.error: "Could not find engine to update"
+console.error: "Could not find engine to update"
+console.error: "Could not find engine to update"
+console.error: "Could not find engine to update"
+1624049647911	Marionette	INFO	Stopped listening on port 33537
+1624099238571	geckodriver	INFO	Listening on 127.0.0.1:38333
+1624099239187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepNqXwD"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1624099261114	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepNqXwD/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1624099279494	Marionette	INFO	Listening on port 34401
+1624099283031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1624099795860	geckodriver	INFO	Listening on 127.0.0.1:40239
+1624099796474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUDMtwH"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1624099820971	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUDMtwH/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1624099844236	Marionette	INFO	Listening on port 46615
+1624099847719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1624099900223	Marionette	INFO	Stopped listening on port 46615
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624101061524	geckodriver	INFO	Listening on 127.0.0.1:58215
+1624101061534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepvDjsl"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1624101062008	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepvDjsl/search.json.mozlz4", (void 0)))
+1624101071907	Marionette	INFO	Listening on port 34599
+1624101071984	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1624101170948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenWCVHI"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1624101171465	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenWCVHI/search.json.mozlz4", (void 0)))
+1624101181750	Marionette	INFO	Listening on port 36305
+1624101181809	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1624101201375	Marionette	INFO	Stopped listening on port 34599
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1624101204482	Marionette	INFO	Stopped listening on port 36305
+1624101310680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK7mxjG"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1624101311213	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK7mxjG/search.json.mozlz4", (void 0)))
+1624101321383	Marionette	INFO	Listening on port 37407
+1624101321430	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1624101344380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2wRLL1"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1624101344867	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2wRLL1/search.json.mozlz4", (void 0)))
+1624101353477	Marionette	INFO	Listening on port 35879
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1624101354963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624101356011	Marionette	INFO	Stopped listening on port 37407
+1624101366572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileojk2LE"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1624101367063	Marionette	INFO	Marionette enabled
+1624101372296	Marionette	INFO	Stopped listening on port 35879
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileojk2LE/search.json.mozlz4", (void 0)))
+1624101376272	Marionette	INFO	Listening on port 44181
+1624101376316	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1363: TypeError: conn is undefined
+1624101385653	Marionette	INFO	Stopped listening on port 44181
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1624101411172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC3dmHY"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1624101411665	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileC3dmHY/search.json.mozlz4", (void 0)))
+1624101420328	Marionette	INFO	Listening on port 45923
+1624101420419	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1624101455474	Marionette	INFO	Stopped listening on port 45923
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624200852083	geckodriver	INFO	Listening on 127.0.0.1:33023
+1624200852814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCsoxUw"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1624200871388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCsoxUw/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1624200892166	Marionette	INFO	Listening on port 35287
+1624200895615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+console.error: "Could not find engine to update"
+console.error: "Could not find engine to update"
+console.error: "Could not find engine to update"
+console.error: "Could not find engine to update"
+console.error: "Could not find engine to update"
+1624201659881	geckodriver	INFO	Listening on 127.0.0.1:39817
+1624201660522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQN8hJ3"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1624201675369	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQN8hJ3/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 196: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 167: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.addObserver]
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  AbortError
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  AbortError
+1624202444980	Marionette	INFO	Stopped listening on port 35287
+1624204607715	geckodriver	INFO	Listening on 127.0.0.1:59023
+1624204608399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewa9tbY"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1624204629215	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewa9tbY/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1624204654941	Marionette	INFO	Listening on port 35775
+1624204658453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+1624204937240	Marionette	INFO	Stopped listening on port 35775
+1624726120388	geckodriver	INFO	Listening on 127.0.0.1:34713
+1624726121210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3LmvRz"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1624726140128	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3LmvRz/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1624726161494	Marionette	INFO	Listening on port 34365
+1624726161578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624726305085	geckodriver	INFO	Listening on 127.0.0.1:36187
+1624726305678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDgAegb"
+1624729276948	geckodriver	INFO	Listening on 127.0.0.1:45047
+1624729277715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileijrkUO"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1624729294239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileijrkUO/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: "Could not load engine amazondotcom@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: region-update-timer
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 196: Error: Data is not ready.
